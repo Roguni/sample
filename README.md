@@ -1,3 +1,3 @@
 # sample
 
-適当に作ったリポジトリです。
+This is sample repository.
